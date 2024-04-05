@@ -17,9 +17,10 @@ https://github.com/JpCode01/jogo-do-numero-secreto/assets/165571084/1cf021c7-3a1
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-<ul/>
+</ul>
 
-# Autores
+
+## Autores
 
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/165571084?s=400&u=1ee1c679eda8112d1334f93a326df74fda32ee1d&v=4" width=115>
   <a href:"https://github.com/JpCode01"><u><br>ㅤJoão Pedro</u></a>
